@@ -1,4 +1,4 @@
-elo notes
+
 ---
 __Content disclaimer__
 
